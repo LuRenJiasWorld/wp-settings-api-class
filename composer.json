@@ -4,7 +4,7 @@
     "description": "WordPress settings API Abstraction Class",
     "keywords": ["wp","wordpress", "settings-api"],
     "homepage": "https://github.com/JaxsonWang/wp-settings-api-class",
-    "license": "GPLv3",
+    "license" : "GPL-3.0+",
     "authors": [
         {
             "name" : "Jaxson Wang",
