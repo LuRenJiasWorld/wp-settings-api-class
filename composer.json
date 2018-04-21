@@ -1,5 +1,5 @@
 {
-    "name": "JaxsonWang/wp-settings-api-class",
+    "name": "jaxsonwang/wp-settings-api-class",
     "type": "library",
     "description": "WordPress settings API Abstraction Class",
     "keywords": ["wp","wordpress", "settings-api"],
