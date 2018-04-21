@@ -19,5 +19,6 @@
         "psr-4" : {
             "SettingsApi\\" : "src"
         }
-    }
+    },
+    "version": "1.0.0"
 }
