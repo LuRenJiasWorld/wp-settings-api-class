@@ -1,5 +1,7 @@
 <?php
 
+namespace SettingsApi;
+
 class SettingsApi {
 
 	/**
