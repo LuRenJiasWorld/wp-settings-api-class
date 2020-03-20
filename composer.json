@@ -1,15 +1,15 @@
 {
-    "name": "jaxsonwang/wp-settings-api-class",
+    "name": "LuRenJiasWorld/wp-settings-api-class",
     "type": "library",
     "description": "WordPress settings API Abstraction Class",
     "keywords": ["wp","wordpress", "settings-api"],
-    "homepage": "https://github.com/JaxsonWang/wp-settings-api-class",
+    "homepage": "https://github.com/LuRenJiasWorld/wp-settings-api-class",
     "license" : "GPL-3.0+",
     "authors": [
         {
-            "name" : "Jaxson Wang",
-            "email" : "wangjin@boxrom.com",
-            "homepage": "https://iiong.com"
+            "name" : "LuRenJiasWorld",
+            "email" : "loli@lurenjia.in",
+            "homepage": "https://untitled.pw"
         }
     ],
     "require": {
