@@ -6,7 +6,7 @@ To install this package, edit your `composer.json` file:
 ```json
 {
     "require": {
-        "jaxsonwang/wp-settings-api-class": "dev-master"
+        "lurenjiasworld/wp-settings-api-class": "dev-master"
     }
 }
 ```
